@@ -32,6 +32,9 @@ public class Usuario {
     @Column(name = "nome")
     private String nome;
 
+    @Column(name = "password")
+    private String password;
+
     @OneToMany(mappedBy = "usuario")
     private List<Feedback> feedbacks;
 
