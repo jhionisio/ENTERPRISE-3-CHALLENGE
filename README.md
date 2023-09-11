@@ -36,3 +36,12 @@ Os CRUDs (Create, Read, Update, Delete) são operações básicas de gerenciamen
 - **Exclusão de Usuários:** Os métodos de exclusão (`delete`) permitem remover um usuário do sistema, excluindo seus dados do banco de dados.
 
 Essas operações são fundamentais para o funcionamento da plataforma, permitindo o gerenciamento dos usuários e a interação com o sistema.
+
+------------------------------------------------------------------------------------------
+## Nomes dos Integrantes
+
+Ana Karolyne - RM93668
+Alan Araujo - RM95355
+Iago Coelho - RM95683
+João Marcelo - RM94983
+Valentina Fuzaro - RM95741
