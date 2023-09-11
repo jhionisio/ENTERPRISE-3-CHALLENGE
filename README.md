@@ -41,7 +41,11 @@ Essas operações são fundamentais para o funcionamento da plataforma, permitin
 ## Nomes dos Integrantes
 
 Ana Karolyne - RM93668
+
 Alan Araujo - RM95355
+
 Iago Coelho - RM95683
+
 João Marcelo - RM94983
+
 Valentina Fuzaro - RM95741
